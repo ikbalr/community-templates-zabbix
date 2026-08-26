@@ -6,7 +6,7 @@ Monitors an HP LaserJet MFP E42540 (monochrome, and compatible HP Enterprise/Man
 
 This template is structurally identical to the `template_hp_color_laserjet_mfp_e78630` template — since discovery is fully SNMP LLD-based, it will simply discover fewer consumables (typically 1 black cartridge plus drum/maintenance kits) instead of 4 color cartridges.
 
-Author: YOUR_NAME_OR_GITHUB_USERNAME (replace before submitting)
+Author: github.com/ikbalr
 
 ## Requirements
 

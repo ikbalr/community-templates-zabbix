@@ -6,7 +6,7 @@ Monitors an HP Color LaserJet MFP X57945 (and compatible HP Enterprise/Managed p
 
 This template is structurally identical to the `template_hp_color_laserjet_mfp_e78630` template — discovery is fully SNMP LLD-based, so it will automatically pick up whatever consumables/trays this device reports.
 
-Author: YOUR_NAME_OR_GITHUB_USERNAME (replace before submitting)
+Author: github.com/ikbalr
 
 ## Requirements
 

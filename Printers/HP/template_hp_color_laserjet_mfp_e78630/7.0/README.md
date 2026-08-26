@@ -4,7 +4,7 @@
 
 Monitors an HP Color LaserJet MFP E78630 (and compatible HP Enterprise/Managed printers) over SNMP, using only the standard **Printer-MIB (RFC 3805)** and **Host Resources MIB**. No vendor-specific/private MIB is required for the core metrics, so this template will generally also work — as-is or with minimal changes — on other HP Enterprise/Managed printers that expose the same standard MIBs.
 
-Author: YOUR_NAME_OR_GITHUB_USERNAME (replace before submitting)
+Author: github.com/ikbalr
 
 ## Requirements
 
